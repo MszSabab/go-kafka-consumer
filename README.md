@@ -24,7 +24,7 @@ kafka-topics.sh --list --zookeeper zookeeper:2181
 ```
 
 
-## Producer from docker(proxy of producer sevrice):
+## Producer from docker(proxy for producer service):
 ```bash
 kafka-console-producer.sh --broker-list localhost:9092 --topic <topic name>
 ```
