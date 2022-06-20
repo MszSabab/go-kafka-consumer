@@ -1,4 +1,4 @@
-### KAFKA COMMANDS###
+### KAFKA COMMANDS
 kafka shell: 
 docker exec -it kafka /bin/sh
 
