@@ -1,5 +1,6 @@
 # KAFKA COMMANDS:
 
+Segmentio/kafka-go is used to connect into Kafka
 ## Kafka shell: 
 ```bash
 docker exec -it kafka /bin/sh
