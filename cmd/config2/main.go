@@ -1,7 +1,7 @@
 package main
 
 import (
-	"docker_kafka/kafka"
+	"docker_kafka/pkg/kafka"
 	"fmt"
 )
 
